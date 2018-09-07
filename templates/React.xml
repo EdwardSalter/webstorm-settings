@@ -1,0 +1,5 @@
+<templateSet group="React">
+  <template name="ptf" value="PropTypes.func," description="Func prop type" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

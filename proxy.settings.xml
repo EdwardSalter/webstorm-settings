@@ -1,0 +1,8 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_PROXY_PAC" value="true" />
+    <option name="PROXY_HOST" value="smoothwallhq.ml.local" />
+    <option name="PROXY_PORT" value="413" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+  </component>
+</application>

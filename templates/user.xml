@@ -1,0 +1,13 @@
+<templateSet group="user">
+  <template name="header" value="// ------------------------------------&#10;// $END$&#10;// ------------------------------------" description="A comment block" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="log" value="console.log($END$)" description="console.log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

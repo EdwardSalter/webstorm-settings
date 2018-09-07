@@ -1,0 +1,12 @@
+<application>
+  <component name="PowerModeII">
+    <option name="customBamImageFolder" value="C:\Program Files\JetBrains\WebStorm 2018.2.2\bin" />
+    <option name="customFlameImageFolder" value="C:\Program Files\JetBrains\WebStorm 2018.2.2\bin" />
+    <option name="flameLife" value="822" />
+    <option name="frameRate" value="45" />
+    <option name="heatupThreshold" value="10" />
+    <option name="isCaretAction" value="false" />
+    <option name="maxFlameSize" value="164" />
+    <option name="soundsFolder" value="C:\Program Files\JetBrains\WebStorm 2018.2.2\bin" />
+  </component>
+</application>
