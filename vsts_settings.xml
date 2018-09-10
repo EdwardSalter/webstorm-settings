@@ -45,7 +45,7 @@
           <option name="userId" value="b2b4bc6b-f66d-4c52-ab6e-5832ba527012" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;b0fb9bde-7329-4e72-b00d-51ed50a7d41b&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/_apis/projectCollections/b0fb9bde-7329-4e72-b00d-51ed50a7d41b&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;6636997b-e9be-4da8-b897-913a56e1490d&quot;,&quot;name&quot;:&quot;Microlise&quot;,&quot;revision&quot;:424,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/_apis/projects/6636997b-e9be-4da8-b897-913a56e1490d&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;9f5c659a-a5a4-42f7-8901-d0bf59aab4c9&quot;,&quot;name&quot;:&quot;UIGradeComponents&quot;,&quot;remoteUrl&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/Microlise/_git/UIGradeComponents&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/_apis/git/repositories/9f5c659a-a5a4-42f7-8901-d0bf59aab4c9&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;6636997b-e9be-4da8-b897-913a56e1490d&quot;,&quot;name&quot;:&quot;Microlise&quot;,&quot;revision&quot;:424,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/_apis/projects/6636997b-e9be-4da8-b897-913a56e1490d&quot;},&quot;_links&quot;:null}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;64c12020-ae3c-4881-be98-2321b1103f6b&quot;,&quot;name&quot;:&quot;DPMWebApp&quot;,&quot;remoteUrl&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/Microlise/_git/DPMWebApp&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/_apis/git/repositories/64c12020-ae3c-4881-be98-2321b1103f6b&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;6636997b-e9be-4da8-b897-913a56e1490d&quot;,&quot;name&quot;:&quot;Microlise&quot;,&quot;revision&quot;:424,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/_apis/projects/6636997b-e9be-4da8-b897-913a56e1490d&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="TFS" />
@@ -80,7 +80,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//_tfs_last_used_url_" />
+          <option name="value" value="//microlise19:8080/tfs/defaultcollection/microlise/_git/dpmwebapp" />
         </PropertyState>
       </array>
     </option>
