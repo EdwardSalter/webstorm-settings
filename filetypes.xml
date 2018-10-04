@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="cucumber" type="Cucumber" />
+      <mapping ext="gherkin" type="Cucumber" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="story1" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
