@@ -20,6 +20,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt v" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="v" />
   </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift ctrl f2" />
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="Move">
     <keyboard-shortcut first-keystroke="f6" />
