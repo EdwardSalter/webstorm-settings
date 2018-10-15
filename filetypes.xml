@@ -6,6 +6,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="story1" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping ext="nuspec" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
