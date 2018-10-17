@@ -13,6 +13,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="TFS" />
+          <option name="uri" value="http://microlise19:8080/tfs/DefaultCollection/Microlise/_git/UX" />
+          <option name="serverUri" value="http://microlise19:8080/tfs" />
+          <option name="userId" value="b2b4bc6b-f66d-4c52-ab6e-5832ba527012" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;b0fb9bde-7329-4e72-b00d-51ed50a7d41b&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/_apis/projectCollections/b0fb9bde-7329-4e72-b00d-51ed50a7d41b&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;6636997b-e9be-4da8-b897-913a56e1490d&quot;,&quot;name&quot;:&quot;Microlise&quot;,&quot;revision&quot;:424,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/_apis/projects/6636997b-e9be-4da8-b897-913a56e1490d&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;ccc3200d-3726-4b89-81d1-202daf08cc44&quot;,&quot;name&quot;:&quot;UX&quot;,&quot;remoteUrl&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/Microlise/_git/UX&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/_apis/git/repositories/ccc3200d-3726-4b89-81d1-202daf08cc44&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;6636997b-e9be-4da8-b897-913a56e1490d&quot;,&quot;name&quot;:&quot;Microlise&quot;,&quot;revision&quot;:424,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/_apis/projects/6636997b-e9be-4da8-b897-913a56e1490d&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="TFS" />
           <option name="uri" value="http://microlise19:8080/tfs/DefaultCollection/Microlise/_git/UIESLintReactConfig" />
           <option name="serverUri" value="http://microlise19:8080/tfs" />
           <option name="userId" value="b2b4bc6b-f66d-4c52-ab6e-5832ba527012" />
@@ -36,7 +45,7 @@
           <option name="userId" value="b2b4bc6b-f66d-4c52-ab6e-5832ba527012" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;b0fb9bde-7329-4e72-b00d-51ed50a7d41b&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/_apis/projectCollections/b0fb9bde-7329-4e72-b00d-51ed50a7d41b&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;6636997b-e9be-4da8-b897-913a56e1490d&quot;,&quot;name&quot;:&quot;Microlise&quot;,&quot;revision&quot;:424,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/_apis/projects/6636997b-e9be-4da8-b897-913a56e1490d&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;5f61b1e0-4132-4da3-9a29-878ad7e607b8&quot;,&quot;name&quot;:&quot;UICoreComponentsThemes&quot;,&quot;remoteUrl&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/Microlise/_git/UICoreComponentsThemes&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/_apis/git/repositories/5f61b1e0-4132-4da3-9a29-878ad7e607b8&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;6636997b-e9be-4da8-b897-913a56e1490d&quot;,&quot;name&quot;:&quot;Microlise&quot;,&quot;revision&quot;:424,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/_apis/projects/6636997b-e9be-4da8-b897-913a56e1490d&quot;}}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;ccc3200d-3726-4b89-81d1-202daf08cc44&quot;,&quot;name&quot;:&quot;UX&quot;,&quot;remoteUrl&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/Microlise/_git/UX&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/_apis/git/repositories/ccc3200d-3726-4b89-81d1-202daf08cc44&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;6636997b-e9be-4da8-b897-913a56e1490d&quot;,&quot;name&quot;:&quot;Microlise&quot;,&quot;revision&quot;:424,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://microlise19:8080/tfs/DefaultCollection/_apis/projects/6636997b-e9be-4da8-b897-913a56e1490d&quot;}}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="TFS" />
