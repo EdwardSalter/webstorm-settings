@@ -11,6 +11,7 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
   <action id="Inline">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
@@ -63,6 +64,7 @@
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
