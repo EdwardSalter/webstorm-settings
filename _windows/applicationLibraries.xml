@@ -1,10 +1,18 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/fs-extra" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
     <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mocha" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
