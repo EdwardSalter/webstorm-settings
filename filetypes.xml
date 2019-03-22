@@ -9,6 +9,7 @@
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="story1" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".browerslistrc" type="PLAIN_TEXT" />
       <mapping ext="nuspec" type="PLAIN_TEXT" />
       <mapping ext="passwd" type="PLAIN_TEXT" />
       <mapping ext="bot" type="PLAIN_TEXT" />
