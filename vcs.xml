@@ -10,8 +10,12 @@
           <option name="url" value="https://git.edwardsalter.me.uk/ed/bot-giphy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://microlise19:8080/tfs/DefaultCollection/Microlise/_git/UICoreComponents" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Development\Other" />
+    <option name="cloneParentDir" value="C:\Work" />
   </component>
 </application>
