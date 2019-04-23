@@ -5,4 +5,10 @@
     <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="bnd" value="this.$METHOD$ = this.$METHOD$.bind(this);" description="Bind a class method with this" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
