@@ -29,4 +29,11 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="muice" value="&lt;h4&gt;$DESCRIPTION$&lt;/h4&gt;&#10;&#10;&lt;template&gt;&#10;&lt;mui-$COMPONENT$&gt;&lt;/mui-$COMPONENT$&gt;&#10;&lt;/template&gt;&#10;    &#10;&lt;script&gt;$END$&lt;/script&gt;" description="MUI Component Exmaple" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
