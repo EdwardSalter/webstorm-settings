@@ -139,6 +139,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Rerun 'rollup'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <Description>Rerun 'rollup'</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'sparkline'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
