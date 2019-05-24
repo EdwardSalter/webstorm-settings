@@ -57,20 +57,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'Run Regression Tests'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Run 'Run Regression Tests'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'Update Snapshot Tests'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'Update Snapshot Tests'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Wallaby'">
@@ -149,6 +141,14 @@
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <Description>Rerun 'sparkline'</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Run Regression Tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Run 'Run Regression Tests'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
     </option>
