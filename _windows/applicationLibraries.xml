@@ -36,5 +36,16 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="date_fns" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.date-fns.org_v1.9.0_date_fns.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.date-fns.org_v1.9.0_date_fns.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
