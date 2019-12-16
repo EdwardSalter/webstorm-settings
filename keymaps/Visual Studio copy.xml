@@ -1,4 +1,5 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ChangesView.ShelveSilently" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -14,6 +15,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt v" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="v" />
   </action>
+  <action id="MethodHierarchy" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
@@ -30,7 +32,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
   </action>
-  <action id="ReplaceInPath" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
