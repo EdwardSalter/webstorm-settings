@@ -14,6 +14,10 @@
           <option name="url" value="http://git.edwardsalter.me.uk" />
           <option name="userName" value="ed" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://tfs.briefyourmarket.com" />
+          <option name="userName" value="eds" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Development\Other" />
