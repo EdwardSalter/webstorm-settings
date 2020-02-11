@@ -3,8 +3,11 @@
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
         <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
           <option name="READ_ONLY_LOCK" value="false" />
+          <option name="SHOW_INDENT_LINES" value="true" />
+          <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
     </option>
