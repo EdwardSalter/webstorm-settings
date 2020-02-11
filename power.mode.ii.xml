@@ -2,12 +2,12 @@
   <component name="PowerModeII">
     <option name="customBamImageFolder" value="C:\Program Files\JetBrains\WebStorm 2018.2.2\bin" />
     <option name="customFlameImageFolder" value="C:\Program Files\JetBrains\WebStorm 2018.2.2\bin" />
+    <option name="enabled" value="false" />
     <option name="flameLife" value="822" />
     <option name="frameRate" value="45" />
     <option name="heatup" value="0" />
     <option name="heatupThreshold" value="20" />
     <option name="heatupTime" value="20145" />
-    <option name="isCaretAction" value="false" />
     <option name="isPowerIndicatorEnabled" value="false" />
     <option name="maxFlameSize" value="164" />
     <option name="soundsFolder" value="C:\Program Files\JetBrains\WebStorm 2018.2.2\bin" />
