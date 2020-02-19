@@ -1,4 +1,10 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt minus" />
+    <keyboard-shortcut first-keystroke="alt subtract" />
+  </action>
   <action id="ChangesView.ShelveSilently" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
@@ -9,6 +15,12 @@
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt equals" />
+    <keyboard-shortcut first-keystroke="alt add" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="Inline">
