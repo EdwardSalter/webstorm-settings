@@ -1,42 +1,10 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/amcharts" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/chai" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/enzyme" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="@types/fs-extra" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/jest" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/mocha" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/puppeteer" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/sinon" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/sinon-chai" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/socket.io-client" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
