@@ -18,6 +18,10 @@
           <option name="url" value="http://tfs.briefyourmarket.com" />
           <option name="userName" value="eds" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.edwardsalter.me.uk/ed/tfs-notifier.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Development\Other" />
